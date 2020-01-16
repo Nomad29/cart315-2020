@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-01-15T12:14:45.431-05:00
+  initializedAtString: 2020-01-15T12:12:51.556-05:00
+  log:
+  - commitID: eac04c508a1de1ef2305627a28a06619670214cd
+    mergeA: 
+    mergeB: 
+    authorName: Nomad29
+    authorEmail: alexandramelancon@outlook.com
+    commitEmail: alexandramelancon@outlook.com
+    commitName: Nomad29
+    summary: Initial commit
+    description: 
+    timeString: 2020-01-15T12:12:50.000-05:00
+    commitTimeString: 2020-01-15T12:12:50.000-05:00
+    changes:
+    - path: .gitattributes
+      fullPath: "D:\\Users\\alexa\\Desktop\\\xC9tudes\\Universit\xE9\\Concordia\\Winter_2020\\CART315\\exercise01\\exercise01\\.gitattributes"
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: "D:\\Users\\alexa\\Desktop\\\xC9tudes\\Universit\xE9\\Concordia\\Winter_2020\\CART315\\exercise01\\exercise01\\.gitignore"
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: "D:\\Users\\alexa\\Desktop\\\xC9tudes\\Universit\xE9\\Concordia\\Winter_2020\\CART315\\exercise01\\exercise01\\Assets\\.gitignore"
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
