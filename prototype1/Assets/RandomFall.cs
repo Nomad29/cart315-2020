@@ -25,7 +25,7 @@ public class RandomFall : MonoBehaviour
         if (other.gameObject == Player && roll == 3)
         {
             gameObject.GetComponent<Collider>().enabled = false;
-            Invoke("Respawn", 10.0f);
+            Invoke("Respawn", 3.0f);
         }
     }
 
