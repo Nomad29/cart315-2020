@@ -17,7 +17,6 @@ This prototype is based on the idea of relying on one's luck to progress, as it 
 
 \
 **PLAYTEST RESULTS**
-Notes from playtesting and reflection on result of playtest that is missing
 
 1. At first, the players that started felt a great satisfaction of success while the others were slowly experiencing frustration and confusion. The confusion was about how the collider was applied to turn off at random – not realising that it was *luck* but instead a problem with the mesh on top of the magenta blocs while completely out.
 2. For this second question, the answers were also biaised as one did not find that changes were necessary and on the other hand, was alright. The one that said yes, proposed adding a slippery option to the platforms that could be affected by luck also or add wind that could push against you at random.
