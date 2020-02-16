@@ -25,7 +25,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -89,15 +88,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10484}
     - Class: 114
-      Script: {instanceID: 11270}
+      Script: {instanceID: 11268}
     - Class: 114
-      Script: {instanceID: 11478}
+      Script: {instanceID: 11476}
     - Class: 114
-      Script: {instanceID: 11516}
+      Script: {instanceID: 11514}
     - Class: 114
-      Script: {instanceID: 11590}
+      Script: {instanceID: 11588}
     - Class: 114
-      Script: {instanceID: 11648}
+      Script: {instanceID: 11646}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -146,15 +145,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10774}
     - Class: 114
-      Script: {instanceID: 11004}
+      Script: {instanceID: 11002}
     - Class: 114
-      Script: {instanceID: 11204}
+      Script: {instanceID: 11202}
     - Class: 114
-      Script: {instanceID: 11270}
+      Script: {instanceID: 11268}
     - Class: 114
-      Script: {instanceID: 11614}
+      Script: {instanceID: 11612}
     - Class: 114
-      Script: {instanceID: 11648}
+      Script: {instanceID: 11646}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -205,17 +204,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10774}
     - Class: 114
-      Script: {instanceID: 11004}
+      Script: {instanceID: 11002}
     - Class: 114
-      Script: {instanceID: 11020}
+      Script: {instanceID: 11018}
     - Class: 114
-      Script: {instanceID: 11204}
+      Script: {instanceID: 11202}
     - Class: 114
-      Script: {instanceID: 11270}
+      Script: {instanceID: 11268}
     - Class: 114
-      Script: {instanceID: 11434}
+      Script: {instanceID: 11432}
     - Class: 114
-      Script: {instanceID: 11648}
+      Script: {instanceID: 11646}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -256,11 +255,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10558}
     - Class: 114
-      Script: {instanceID: 11004}
+      Script: {instanceID: 11002}
     - Class: 114
-      Script: {instanceID: 11204}
+      Script: {instanceID: 11202}
     - Class: 114
-      Script: {instanceID: 11270}
+      Script: {instanceID: 11268}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
